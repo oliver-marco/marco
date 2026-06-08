@@ -6,7 +6,7 @@
             is web based application designed to simplify and automate the dairly administrative and academic operation of school.The system provide an integrated platform for manage students records,teacher information and attendance.
 The main objective of this system is to improve efficiency,accuaracy and accessibility of school information while reducing manual paperwork.
    ## features of the system
-   Student registration and management
+   Student registration and management,
    Teacher and staff management
    ## benefits of the system
     Reduces paperwork and manual data entry
