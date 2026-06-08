@@ -11,7 +11,7 @@ The main objective of this system is to improve efficiency,accuaracy and accessi
    ## benefits of the system
     Reduces paperwork and manual data entry
     improve data accuracy and security
-   ## technologies used
+   ## languages and tools used
              HTML
              CSS
              PHP
